@@ -1,7 +1,7 @@
 # GraphVisualization-ChainSupply
 An introduction to the C programming language - 1st year project at TELECOM Nancy
 
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 English
 
 This program was designed to allow users to visualize a network of freight transportation.
