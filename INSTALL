@@ -1,0 +1,43 @@
+
+----- INSTALLATION -----
+
+Programmes nécéssaires
+
+	-- Graphviz
+		sudo apt-get install graphviz
+		cd /usr/ports/graphics/graphviz && make install
+		port install graphviz
+	-- GCC
+
+	-- make
+	
+	-- un lecteur d'image: EOG
+
+Compilez
+	make
+
+Lancez
+	./executable
+
+
+
+----- INSTALL ------
+Requirements
+
+   	-- Graphviz
+		sudo apt-get install graphviz
+		cd /usr/ports/graphics/graphviz && make install
+		port install graphviz
+   	-- GCC
+
+   	-- make
+    		
+	-- an image reader: EOG
+    
+Compile
+	make
+
+Launch
+	./executable
+
+
